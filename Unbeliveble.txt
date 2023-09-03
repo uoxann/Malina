@@ -4,6 +4,6 @@ Super word
 Super word update
 feature_Joker
 nasty words!
-etc
 Awesome!
 "Add line" 
+NewLineForGui
