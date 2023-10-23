@@ -1,0 +1,4 @@
+Hero_Name = "Yokozuna"
+Hero_Name_2 = "Vlav"
+U = Hero_Name + Hero_Name_2
+print(U)
